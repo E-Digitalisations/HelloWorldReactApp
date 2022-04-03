@@ -9,7 +9,7 @@ export default function App() {
         alignItems: "center",
       }}
     >
-      <Text>Hello World</Text>
+      <Text>Hello World change</Text>
     </View>
   );
 }
